@@ -70,9 +70,9 @@ There are a lot of different ways to talk about the right kind of market. For ex
 
 So think about where this is happening in the world. You need this sort of tailwind to make a startup successful.
 
-The exciting thing is the there are probably more of these tailwinds now then ever before. As Marc Andreessen says, software is eating the world. Its just everywhere, there are so many great ideas out there. You just have to pick one, and find one that you really care about.
+The exciting thing is that there are probably more of these tailwinds now than ever before. As Marc Andreessen says, software is eating the world. Its just everywhere, there are so many great ideas out there. You just have to pick one, and find one that you really care about.
 
-Another version of this, that gets down to the same idea, is Sequoia's famous question: Why now? Why is this the perfect time for this particular idea, and to start this particular company. Why couldn't it be done two years ago, and why will two years in the future be two late? For the most successful startups we've been involved with, they've all had a great idea and a great answer to this question. And if you don't you should be at least somewhat suspicious about it.
+Another version of this, that gets down to the same idea, is Sequoia's famous question: Why now? Why is this the perfect time for this particular idea, and to start this particular company. Why couldn't it be done two years ago, and why will two years in the future be too late? For the most successful startups we've been involved with, they've all had a great idea and a great answer to this question. And if you don't you should be at least somewhat suspicious about it.
 
 In general, its best if you're building something that you yourself need. You'll understand it much better than if you have to understand it by talking to a customer to build the very first version. If you don't need it yourself, and you're building something someone else needs, realize that you're at a big disadvantage, and get very very close to your customers. Try to work in their office, if you can, and if not, talk to them multiple times a day.
 

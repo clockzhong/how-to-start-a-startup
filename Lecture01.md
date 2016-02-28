@@ -80,7 +80,7 @@ Another somewhat counterintuitive thing about good startup ideas is that they're
 
 So as I mentioned, one of the great things about being a student is that you've got a very good perspective on new technology. And learning to have good ideas takes a while, so start working on that right now. That's one thing we hear from people all the time, that they wish they had done more of as a student.
 
-The other is meeting potential cofounders. You have no idea how good of an environment you're in right now, for meeting people you can start a company with down the road. And the one thing that we always tell college students is that more important then any particular startup is getting to know potential cofounders.
+The other is meeting potential cofounders. You have no idea how good of an environment you're in right now, for meeting people you can start a company with down the road. And the one thing that we always tell college students is that more important than any particular startup is getting to know potential cofounders.
 
 So I want to finish this section of my talk with a quote from 50 Cent. This is from when he was asked about Vitamin Water. 
 

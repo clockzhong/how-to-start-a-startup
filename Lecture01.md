@@ -131,7 +131,7 @@ Ben Silbermann, when everyone thought Pinterest was a joke, recruited the initia
 
 So get users manually and remember that the goal is to get a small group of them to love you. Understand that group extremely well, get extremely close to them. Listen to them and you'll almost always find out that they're very willing to give you feedback. Even if you're building the product for yourself, listen to outside users, and they'll tell you how to make a product they'll pay for. Do whatever you need to make them love you, and make them know what you're doing. Because they'll also be the advocates that help you get your next users.
 
-You want to build an engine in the company that transforms feedback from users into product decisions. Then get it back in from of the users and repeat. Ask them what the like and don't like, and watch them use it. Ask them what they'd pay for. Ask them if they'd be really bummed if your company went away. Ask them what would make them recommend the product to their friends, and ask them if they'd recommended it to any yet.
+You want to build an engine in the company that transforms feedback from users into product decisions. Then get it back in from of the users and repeat. Ask them what they like and don't like, and watch them use it. Ask them what they'd pay for. Ask them if they'd be really bummed if your company went away. Ask them what would make them recommend the product to their friends, and ask them if they'd recommended it to any yet.
 
 ![](l1f2.png)
 

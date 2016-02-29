@@ -7,7 +7,7 @@
 > [Slides 1](Lecture_1_Sam_Altman_Deck.pdf) | [Slides 2](Lecture_1_Dustin_Moskovitz_Deck.pdf)
 
 Welcome to CS183B. I am Sam Altman, I'm the President of Y Combinator. Nine years ago, I was a Stanford student, and then I dropped out to start a company and then I've been an investor for the last few. So YC, we've been teaching people how to start startups for nine years. Most of it's pretty specific to the startups but thirty percent of it is pretty generally applicable. And so we think we can teach that thirty percent in this class. And even though that's only thirty percent of the way there, hopefully it will still be really helpful.
-
+hackaton 
 We've taught a lot of this class at YC and it's all been off the record. And this is the first time a lot of what we teach is going to be on the record. We've invited some of our guest speakers to come and give the same talks they give at YC. We've now funded 725 companies and so we're pretty sure a lot of this advice we give is pretty good. We can't fund every startup yet, but we can hopefully make this advice very generally available.
 
 I'm only teaching three. Counting YC itself, every guest speaker has been involved in the creation of a billion plus dollar company. So the advice shouldn't be that theoretical, it's all been people who have done it.
@@ -225,7 +225,7 @@ So couple specific examples, Bret Taylor came into Google as around employee num
 
 My cofounder Justin Rosenstein joined Google a little later after Brett, he was a PM there and just as a side project he ended up prototyping a chat which used to be a stand-alone app, integrated in Gmail like you see in the upper right there and before he did that like you couldn't even think you could chat over Ajax or chat in the browser at all and he just kinda demonstrated it and showed it to his team and made it happen. This is probably a product most of you use almost everyday.
 
-Perhaps even more impressively, shortly after that Justin left and became employee around 250 at Facebook and he led a hackaton project along with people like Andrew Bosworth and [?] to create the Like button, this is one of the most popular elements anywhere on the web, totally changed how people use it and then again didn't need to start a company to do it and almost certainly would have failed if he had tried because he really needed the distribution of Facebook to make it work.
+Perhaps even more impressively, shortly after that Justin left and became employee around 250 at Facebook and he led a hackathon project along with people like Andrew Bosworth and [?] to create the Like button, this is one of the most popular elements anywhere on the web, totally changed how people use it and then again didn't need to start a company to do it and almost certainly would have failed if he had tried because he really needed the distribution of Facebook to make it work.
 
 So important to keep in mind the context for what kind of company you're trying to start and like where you will actually be able to make it happen.
 
